@@ -1,0 +1,1 @@
+{"uuid":"e646a5a6-ea6f-4b0d-b511-018171f5fab4","name":"practiceTestCases.DataProviderWithExcel_002.Authentication","description":"","start":1557093091932,"stop":1557093091997,"children":["7cf726e7-5e0b-48fc-b265-e212c746efd8"],"afters":[{"name":"Authentication","stage":"finished","description":"","start":1557093091932,"stop":1557093091997}]}
